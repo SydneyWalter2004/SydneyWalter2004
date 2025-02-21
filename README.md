@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Sydney Walter
-- 👀 I’m interested in ... three.js, HTML, CSS, Python, and 
+- 👀 I’m interested in ... three.js, HTML, CSS, Python, and C#
 - 🌱 I’m currently learning ... Python and JavaScript
 - 💞️ I’m always looking to collaborate - I love all things front-end
 - 📫 How to reach me ... sydneywalter@proton.me
