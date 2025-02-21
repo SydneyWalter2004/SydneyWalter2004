@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SydneyWalter2004
-- 👀 I’m interested in ... DIYs, thrift-flipping, weight training, Rick and Morty, modded minecraft.
-- 🌱 I’m currently learning ... C# and HTML
-- 💞️ I’m looking to collaborate on ... Not sure yet! Small practice projects? :)
+- 👋 Hi, my name is Sydney Walter
+- 👀 I’m interested in ... three.js, HTML, CSS, Python, and 
+- 🌱 I’m currently learning ... Python and JavaScript
+- 💞️ I’m always looking to collaborate - I love all things front-end
 - 📫 How to reach me ... sydneywalter@proton.me
 
 <!---
